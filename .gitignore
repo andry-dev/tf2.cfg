@@ -14,6 +14,7 @@ stats.txt
 voice_ban.dt
 demoheader.tmp
 gamestate.txt
+cache
 *.cache
 serverconfig.vdf
 steam.inf
@@ -91,3 +92,5 @@ cfg/undo360controller.cfg
 cfg/unencrypted
 cfg/user.scr
 custom/*.sound.cache
+models
+*.dmx
